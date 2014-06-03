@@ -1,6 +1,21 @@
 FirstLab
 ========
 
+* Trying
+* Out
+* Lists
+ 
+1. numbered
+2. list
+
+**bold**
+
+*italic*
+
+| table |one | two |
+|---|---|---|
+| a | b | c |
+
 
 The Warthog
 =====
